@@ -1,4 +1,4 @@
-name: Build Train
+name: Build
 on:
   # build a new release on push a new config file
   push:
